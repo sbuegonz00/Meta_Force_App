@@ -1,0 +1,5 @@
+/Users/salvadorbueno/AndroidStudioProjects/MetaForceApp/app/src/main/java/com/example/metaforceapp/ui/theme/Color.kt
+/Users/salvadorbueno/AndroidStudioProjects/MetaForceApp/app/src/main/java/com/example/metaforceapp/ui/theme/Type.kt
+/Users/salvadorbueno/AndroidStudioProjects/MetaForceApp/app/src/main/java/com/example/metaforceapp/ui/home/HomeScreen.kt
+/Users/salvadorbueno/AndroidStudioProjects/MetaForceApp/app/src/main/java/com/example/metaforceapp/MainActivity.kt
+/Users/salvadorbueno/AndroidStudioProjects/MetaForceApp/app/src/main/java/com/example/metaforceapp/ui/theme/Theme.kt
